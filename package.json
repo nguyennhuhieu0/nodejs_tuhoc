@@ -1,0 +1,30 @@
+{
+  "name": "tuhoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyennhuhieu0/nodejs_tuhoc.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tu_hoc"
+  ],
+  "author": "hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyennhuhieu0/nodejs_tuhoc/issues"
+  },
+  "homepage": "https://github.com/nguyennhuhieu0/nodejs_tuhoc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
